@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 512.001 512.001">
+    <linearGradient id="vipfill" x1="0.5" y1="1" x2="0.5" y2="0" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+        <stop offset="0%" stop-color="#cb9b51" />
+        <stop offset="26%" stop-color="#cb9b51" />
+        <stop offset="57.5619%" stop-color="#f6e27a" />
+        <stop offset="72.0083%" stop-color="#f6f2c0" />
+        <stop offset="100%" stop-color="#f6e27a" />
+    </linearGradient>
+
+
+    <path d="M318.795,4.565c-5.162-3.101-11.418-3.261-16.732-0.429L254.405,29.52L206.628,4.073
+			c-5.316-2.831-11.571-2.671-16.733,0.429c-5.163,3.099-8.246,8.545-8.246,14.567v43.75c-0.001,6.098,3.138,11.578,8.399,14.659
+			c2.679,1.57,5.631,2.357,8.587,2.357c2.847,0,5.696-0.729,8.304-2.191l47.349-26.515l47.46,26.578
+			c2.608,1.461,5.458,2.19,8.304,2.19c2.957,0,5.911-0.786,8.59-2.357c5.259-3.082,8.4-8.562,8.4-14.658v-43.75
+			C327.041,13.109,323.958,7.663,318.795,4.565z M200.612,59.453V22.356l33.952,18.084L200.612,59.453z M308.076,59.515
+			l-33.952-19.013l33.952-18.084V59.515z" fill="url(#vipfill)" />
+</svg>

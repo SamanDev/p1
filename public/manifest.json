@@ -1,0 +1,29 @@
+{
+  "short_name": "Galaxy",
+  "name": "گلکسی کازینو",
+  "description": "معتبرترین و بهترین اپلیکیشن پوکر،  انفجار، تخته نرد، بلک جک، رولت و انواع اسلات با پول واقعی در ایران",
+  "icons": [
+    {
+      "src": "maskable_icon_x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "maskable_icon_x256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "maskable_icon_x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "display": "fullscreen",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "start_url": ".",
+  "id": "/",
+
+  "background_color": "#000000"
+}
